@@ -17,7 +17,6 @@
 		E6E15CB22C3ADD2000C99CBB /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E15CB12C3ADD2000C99CBB /* AFButton.swift */; };
 		E6E15CB42C3B201B00C99CBB /* FrameWorkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E15CB32C3B201B00C99CBB /* FrameWorkGridViewModel.swift */; };
 		E6E15CB62C3C01C700C99CBB /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E15CB52C3C01C700C99CBB /* SafariView.swift */; };
-		E6E15CB82C3C566A00C99CBB /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E15CB72C3C566A00C99CBB /* XDismissButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		E6E15CB12C3ADD2000C99CBB /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		E6E15CB32C3B201B00C99CBB /* FrameWorkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameWorkGridViewModel.swift; sourceTree = "<group>"; };
 		E6E15CB52C3C01C700C99CBB /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
-		E6E15CB72C3C566A00C99CBB /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,7 +131,6 @@
 			isa = PBXGroup;
 			children = (
 				E6E15CB12C3ADD2000C99CBB /* AFButton.swift */,
-				E6E15CB72C3C566A00C99CBB /* XDismissButton.swift */,
 			);
 			path = Buttons;
 			sourceTree = "<group>";
@@ -226,7 +223,6 @@
 			files = (
 				E6E15CAA2C3AB46100C99CBB /* FrameworkGridView.swift in Sources */,
 				E6E15CB02C3AD8B600C99CBB /* FrameworkDetailView.swift in Sources */,
-				E6E15CB82C3C566A00C99CBB /* XDismissButton.swift in Sources */,
 				E6E15CB42C3B201B00C99CBB /* FrameWorkGridViewModel.swift in Sources */,
 				E6E15CA82C3AB2AF00C99CBB /* Framework.swift in Sources */,
 				E6E15CB62C3C01C700C99CBB /* SafariView.swift in Sources */,
